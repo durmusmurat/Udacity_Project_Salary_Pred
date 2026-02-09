@@ -1,4 +1,4 @@
-# Udacity_Project_Salary_Pred
+# Salary Prediction for Tech World - A Udacity Project
 This is a repository that includes the details of the project that predicts Salary in "Stack Overflow Annual Developer Survey" data
 
 # Stack Overflow 2024 — Salary Prediction (Manual CSV)

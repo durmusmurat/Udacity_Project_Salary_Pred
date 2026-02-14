@@ -1,4 +1,4 @@
-## Salary Prediction for Tech World - A Udacity Project
+# Salary Prediction for Tech World - A Udacity Project
 This is a repository that includes the details of the project that predicts Salary in "Stack Overflow Annual Developer Survey" data
 
 ## Motivation:
@@ -11,7 +11,7 @@ The project is created to predict annual salary based on various factors. What r
 4. Does remote work lead to higher salaries?
 5. Which programming languages or skills appear most often among higher earners?
 
-# Stack Overflow 2024 — Salary Prediction (Manual CSV)
+## Stack Overflow 2024 — Salary Prediction (Manual CSV)
 
 This project uses the "2024 Stack Overflow Developer Survey" and a simple ML pipeline to predict annual compensation (Salary).
 

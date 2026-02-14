@@ -10,8 +10,11 @@ This project uses the "2024 Stack Overflow Developer Survey" and a simple ML pip
 
 Update the file path in the script if needed.
 
-Acknowledgments:
+## Acknowledgments:
 The dataset used in this project is sourced from the Stack Overflow Developer Survey, which provides valuable insights into developers' experiences, skills, and salaries.
+
+## For further reading, 
+Check out the blog post: [Predicting Developer Salaries: What Matters Most](https://medium.com/@durmusmuratt/a-detailed-insight-for-salaries-in-tech-world-a929053bbdd5)
 
 ## How to run
 1) Download the CSV.

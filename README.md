@@ -8,6 +8,11 @@ This project uses the "2024 Stack Overflow Developer Survey" and a simple ML pip
 ## Data
 - Official site (choose **2024 → Download Full Data Set (CSV)**): https://survey.stackoverflow.co/
 
+Update the file path in the script if needed.
+
+Acknowledgments:
+The dataset used in this project is sourced from the Stack Overflow Developer Survey, which provides valuable insights into developers' experiences, skills, and salaries.
+
 ## How to run
 1) Download the CSV.
 2) Open `Udacity_Project_Salary_Pred.ipynb`.

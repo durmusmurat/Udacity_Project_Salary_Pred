@@ -4,7 +4,7 @@ This is a repository that includes the details of the project that predicts Sala
 ## Motivation:
 The project is created to predict annual salary based on various factors. What really affects a developer’s salary? The dataset includes a wide range of factors that allowed me to see how different factors influence earnings.
 
-# Questions of Interest
+### Questions of Interest
 1. Does experience significantly influence developer salaries?
 2. How much do geography and country impact earnings?
 3. What role does education play in salary differences?

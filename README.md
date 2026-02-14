@@ -23,7 +23,7 @@ Update the file path in the script if needed.
 ## Acknowledgments:
 The dataset used in this project is sourced from the Stack Overflow Developer Survey, which provides valuable insights into developers' experiences, skills, and salaries.
 
-## For further reading, 
+## For further reading:
 Check out the blog post: [Predicting Developer Salaries: What Matters Most](https://medium.com/@durmusmuratt/a-detailed-insight-for-salaries-in-tech-world-a929053bbdd5)
 
 ## How to run
